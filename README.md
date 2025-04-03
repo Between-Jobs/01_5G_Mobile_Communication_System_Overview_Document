@@ -85,6 +85,6 @@ You are encouraged to create your own **5G Mobile Communication System Overview 
 
 ## Sample 5G Mobile Communication System Overview Document  
 
-📄 **[1.5G MCS OV.pdf](1.5G%20MCS%20OV.pdf)**  
+📄 **[1. 5G MCS OV.pdf](1. 5G%20MCS%20OV.pdf)**  
 Click the link above to open the sample document.  
 
