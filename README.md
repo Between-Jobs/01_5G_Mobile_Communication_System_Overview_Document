@@ -5,7 +5,7 @@ The document was generated based on the following table of contents with a forma
 We encourage you to create your own **5G Mobile Communication System Overview Document** following this structure to quickly grasp the overall concept of 5G systems.
 
 ## 📄 Sample Document  
-[5G Mobile Communication System Overview Document](./1.5G MCS OV.pdf)  
+[5G Mobile Communication System Overview Document](./1. 5G MCS OV.pdf)  
 
 ## 📚 Contents  
 
