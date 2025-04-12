@@ -1,4 +1,4 @@
-# 5G Mobile Communication System Overview Document  
+# 5G Mobile Communication System Overview  
 
 This document was created using a free generative AI based on the following table of contents.  
 The AI was instructed to output a format that is easy to understand and memorize for personal learning.  
