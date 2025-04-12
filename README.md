@@ -12,9 +12,9 @@ You are encouraged to create your own **5G Mobile Communication System Overview 
   1.3 Glossary and Abbreviations  
   1.4 References and Related Documents  
 
-2. **Overview of 5G MCS**  
+2. **Overview of 5G Mobile Communication System**  
   2.1 Basic Concepts and Key Features of 5G  
-  2.2 Components of the 5G MCS  
+  2.2 Components of the 5G Mobile Communication System  
   2.3 Standards and Releases (3GPP)  
   2.4 Use Cases and Applications  
 
